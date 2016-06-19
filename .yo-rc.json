@@ -1,0 +1,9 @@
+{
+  "generator-java": {
+    "title": "MovieRentals",
+    "description": "Renting and tracking movies",
+    "author": "Jonathan ODonnell",
+    "email": "joncodo@gmail.com",
+    "namespace": "Rentals"
+  }
+}
